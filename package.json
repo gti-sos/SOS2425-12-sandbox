@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4"
+  },
+  "name": "sos2425-12-sandbox",
+  "version": "1.0.0",
+  "description": "------------- BULERIA BULERIA ------------- --------- TAN DENTRO DEL ALMA MÍA ---------",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
